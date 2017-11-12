@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="hapi-fhir-3.0">
+    <CLASSES>
+      <root url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/lib" />
+      <root url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/src" />
+    </SOURCES>
+    <jarDirectory url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/lib" recursive="false" />
+    <jarDirectory url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://D:/Downloads/hapi-fhir-3.0.0-standard-distribution/src" recursive="false" type="SOURCES" />
+  </library>
+</component>
